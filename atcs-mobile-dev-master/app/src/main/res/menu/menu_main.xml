@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".features.cctv.CctvActivity">
+
+    <item
+        android:id="@+id/action_favorite"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@drawable/itb_logo"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/action_favorite2"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@drawable/atcs_icon"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/action_favorite3"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@drawable/ubl_logo"
+        app:showAsAction="ifRoom"></item>
+
+
+
+</menu>

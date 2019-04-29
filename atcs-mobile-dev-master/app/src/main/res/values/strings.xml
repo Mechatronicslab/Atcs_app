@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SIAP</string>
+    <string name="GOOGLEMAP_API_KEY">AIzaSyBbHkRe2qgVhhufU63sgCinxJj_eJ18p4g</string>
+    <string name="BaseUrl">http://172.32.1.81:3000/videos/</string>
+    <string-array name="vidList">
+        <item>http://192.168.1.154:5000/video/BasukiRachmat/basukir1.mp4 Basuki Rachmat Utara</item>
+        <item>http://192.168.1.154:5000/video/BasukiRachmat/basukir2.mp4 Basuki Rachmat Barat</item>
+        <item>http://192.168.1.154:5000/video/BasukiRachmat/basukir3.mp4 Basuki Rachmat Selatan</item>
+        <item>http://192.168.1.154:5000/video/BasukiRachmat/basukir4.mp4 Basuki Rachmat Timur</item>
+        <item>http://192.168.1.154:5000/video/BasukiRachmat/app_icon.png Unila Utara</item>
+        <item>http://192.168.1.154:8080/uploads/2019-02-23T07-20-28.377Zhidro2.png Unila Timur</item>
+        <item>http://192.168.1.154:5000/video/BasukiRachmat/bank_icon.png Unila Barat</item>
+    </string-array>
+</resources>
